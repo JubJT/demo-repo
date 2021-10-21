@@ -1,8 +1,7 @@
 # Demo
 Discription !
 
-
-## Subheader
+## Sub-header
 Some more text.
 
 ## Local Development
